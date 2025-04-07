@@ -40,3 +40,4 @@ jobs:
       with:
         name: release-build
         path: '**/bin/Release/**/*'
+ 
